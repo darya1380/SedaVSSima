@@ -1,0 +1,37 @@
+<resources>
+    <string name="app_name">SedaVSSima</string>
+    <string name="privacy" translatable="false">i agree the privacy policy</string>
+    <string name="welcome_text" translatable="false">Welcome to the broadcasting app</string>
+    <string name="start" translatable="false">Start</string>
+    <string name="terms_service" translatable="false">I agree the terms of service</string>
+    <string name="logo" translatable="false">Logo</string>
+    <string name="alert_checkbox" translatable="false">please select the checkbox</string>
+    <string name="spenser">Spenser Company</string>
+    <string name="channel_manager">Channel Manager</string>
+    <string name="general_manager">General Manager</string>
+    <string name="visitor">Visitor</string>
+    <string name="role">please select your role</string>
+    <string name="title_activity_person_g_u_i">PersonGUI</string>
+    <!-- Strings used for fragments for navigation -->
+    <string name="first_fragment_label">First Fragment</string>
+    <string name="second_fragment_label">Second Fragment</string>
+    <string name="next">Next</string>
+    <string name="previous">Previous</string>
+
+    <string name="hello_first_fragment">Hello first fragment</string>
+    <string name="hello_second_fragment">Hello second fragment. Arg: %1$s</string>
+    <string name="fill_form">Please enter your name</string>
+    <string name="name">Name</string>
+    <string name="login">login</string>
+    <string name="validName">Please enter a valid name</string>
+    <string name="app_rate">Please enter the app name you want to rate</string>
+    <string name="tv_name">TVProgram Name</string>
+    <string name="score">Score</string>
+    <string name="submit">submit</string>
+    <string name="rate_true">your app rated successfully</string>
+    <string name="rate_false">your app hasn\'t been rated successfully</string>
+    <string name="ok">OK</string>
+    <string name="name_ask">Please enter the Advertisement name</string>
+    <string name="charge_account">charge account</string>
+    <string name="validNumber">Please enter a valid number</string>
+</resources>
